@@ -9,4 +9,4 @@ Every employee works in an office.
 
 Draw the Class diagram describing this system.
 
-![](../../Desktop/Adsız3.png)
+![unidiagram](https://imgyukle.com/f/2023/01/29/J0N9Fx.png)
